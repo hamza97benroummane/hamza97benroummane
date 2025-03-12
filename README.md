@@ -32,27 +32,27 @@ I also have experience in **blockchain development**, working on **Solana-based 
 
 ## 📌 Featured Projects
 
-### 🔹 [🚀 Solana Token Filtering Bot](https://github.com/yourusername/solana-filtering-bot)
+### 🔹 [🚀 Solana Token Filtering Bot](https://github.com/hamza97benroummane/Sol_Scn_Token.git)
 _A blockchain-based program that monitors and filters new tokens on Raydium, applying trading strategies based on liquidity and market cap._
 
-### 🔹 [🤖 Autonomous Robot Navigation](https://github.com/yourusername/robot-navigation)
+### 🔹 [🤖 Autonomous Robot Navigation](https://github.com/hamza97benroummane/robot-navigation)
 _A ROS-based AI system for hospital environment navigation using deep reinforcement learning._
 
-### 🔹 [🌐 Full-Stack Web App](https://github.com/yourusername/fullstack-webapp)
+### 🔹 [🌐 Full-Stack Web App](https://github.com/hamza97benroummane/fullstack-webapp)
 _A modern Angular & Spring Boot application with secure authentication and responsive UI._
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza97benroummane&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza97benroummane&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-benroummane/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hamza-Ben-Roummane)
 
 ---
 
