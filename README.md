@@ -26,8 +26,6 @@ I also have experience in **blockchain development**, working on **Solana-based 
 
 ### 🔹 Blockchain & Crypto:
 ![Solana](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
 ---
 
 ## 📌 Featured Projects
