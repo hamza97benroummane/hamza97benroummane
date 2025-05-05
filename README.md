@@ -55,12 +55,3 @@ _A modern Angular & Spring Boot application with secure authentication and respo
 ---
 
 🔥 _Let's build, innovate, and explore AI, Blockchain, and Robotics together!_ 🚀
-
----
-
-### 📌 Git Tip – Make Your Contributions Count
-
-
-```bash
-git config --global user.name "hamza97benroummane"
-git config --global user.email "hamza.benroummanegmail.com"
