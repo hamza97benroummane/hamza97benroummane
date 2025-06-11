@@ -211,9 +211,7 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
       <img src="https://github-profile-trophy.vercel.app/?username=hamza97benroummane&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
     </a>
   </p>
-  <p align="center">
-    [![@hamza97benroummane’s Holopin board](https://holopin.io/api/user/board?user=hamza97benroummane)](https://holopin.io/@hamza97benroummane)
-  </p>
+
 </details>
 
 
