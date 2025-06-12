@@ -1,0 +1,29 @@
+name: Generate contribution-snake
+
+on:
+  # Run daily at midnight UTC; adjust cron as you like
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate snake SVG & GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.hamza97benroummane }}
+          files: |
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.svg?palette=github-light
+
+      - name: Commit & push to output branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+          directory: output
