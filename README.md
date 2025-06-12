@@ -15,7 +15,7 @@
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
+<img align="right" src="https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
 <p>
   👋 Hi, I'm Hamza Ben Roummane, Software Engineer and Lead Developer on a Solana Token Launchpad & Multisender Tool.  
@@ -90,7 +90,7 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
 
 <p align="center"> 
   &emsp; 
@@ -103,7 +103,7 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend & UI/UX
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend & UI/UX
 <p align="center"> 
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
@@ -113,7 +113,7 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Blockchain & On-Chain
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Blockchain & On-Chain
 <p align="center">
   &emsp;
   <img alt="Solana" src="https://img.shields.io/badge/Solana-%234E5DE8.svg?style=plastic&logo=solana&logoColor=white">
@@ -123,7 +123,7 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
   <img alt="Smart Contracts" src="https://img.shields.io/badge/Smart_Contracts-%23F05033.svg?style=plastic&logo=ethereum&logoColor=white">
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> DevOps & Tools
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/IDEs.gif?raw=true" width=5%> DevOps & Tools
 <p align="center">
   &emsp;
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
@@ -133,7 +133,7 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-%23500F32.svg?style=plastic&logo=githubactions&logoColor=white">
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%> AI & Research
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/CP_PS.gif?raw=true" width=5%> AI & Research
 <p align="center">
   &emsp;
   <img alt="AI" src="https://img.shields.io/badge/AI-%23007ACC.svg?style=plastic&logo=intel&logoColor=white">
@@ -143,7 +143,7 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
   <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-%239B51E0.svg?style=plastic&logo=openai&logoColor=white">
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Other Skills
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/OS.gif?raw=true" width=5%> Other Skills
 <p align="center">
   &emsp;
   <img alt="VR/AR" src="https://img.shields.io/badge/VR%2FAR-%2300D8FF.svg?style=plastic&logo=unity&logoColor=black">
