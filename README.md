@@ -29,13 +29,13 @@
 
 **Lead Developer & Solution Architect – Solana Token Launchpad & Multisender Tool**  
 
-• Design, develop, and deploy smart contracts on Solana (Rust/Anchor) and Ethereum (Solidity).
-• Build fullstack Web3 dApps with React, TypeScript, and TailwindCSS.
-• Architect and maintain scalable infrastructure for dApps that streamline Web3 project deployment.
-• Deploy and manage high-performance Solana RPC nodes; integrate tooling such as gRPC, QUIC, Jito, Raydium, and Metaplex.
-• Develop high-speed trading bot and copy trading on bare-metal server.
-• Optimize for low-latency execution, protocol-level efficiency, and secure decentralized architecture.
-• Leverage prompt engineering to accelerate development and boost productivity.
+- Design, develop, and deploy smart contracts on Solana (Rust/Anchor) and Ethereum (Solidity).
+- Build fullstack Web3 dApps with React, TypeScript, and TailwindCSS.
+- Architect and maintain scalable infrastructure for dApps that streamline Web3 project deployment.
+- Deploy and manage high-performance Solana RPC nodes; integrate tooling such as gRPC, QUIC, Jito, Raydium, and Metaplex.
+- Develop high-speed trading bot and copy trading on bare-metal server.
+- Optimize for low-latency execution, protocol-level efficiency, and secure decentralized architecture.
+- Leverage prompt engineering to accelerate development and boost productivity.
 
 **Software Engineer – Morchid Engineering**  
 *Casablanca, Morocco* | Mar 2023 – Apr 2025
