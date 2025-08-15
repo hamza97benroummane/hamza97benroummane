@@ -28,14 +28,14 @@
 ## 💼 Professional Experience
 
 **Lead Developer & Solution Architect – Solana Token Launchpad & Multisender Tool**  
-*Self-initiated / Investor* | Mar 2025 – Present
 
-- 🏗️ Developed a comprehensive dApp on Solana enabling custom SPL token creation, Metaplex-compliant metadata uploads, and liquidity provisioning.  
-- 🔄 Integrated a performant multisender feature for secure airdrops to hundreds/thousands of wallets via manual entry and CSV.  
-- 🔐 Leveraged on-chain smart contracts and Solana technologies (Raydium SDK, OpenBook, Metaplex, Pinata, Phantom) with an emphasis on UX, security, and performance.  
-- ⚙️ Led end-to-end development: backend scripting (TypeScript/Node.js), smart contract integration, and modern frontend (React, Tailwind CSS).  
-- 🚀 Designed core flows: token launch, authority revocation, liquidity pool setup, and multisender/airdrop management.  
-- 🔌 Implemented real-time blockchain interactions, advanced wallet connectivity, and handled DevOps (deployment, testing, RPC node management).  
+• Design, develop, and deploy smart contracts on Solana (Rust/Anchor) and Ethereum (Solidity).
+• Build fullstack Web3 dApps with React, TypeScript, and TailwindCSS.
+• Architect and maintain scalable infrastructure for dApps that streamline Web3 project deployment.
+• Deploy and manage high-performance Solana RPC nodes; integrate tooling such as gRPC, QUIC, Jito, Raydium, and Metaplex.
+• Develop high-speed trading bot and copy trading on bare-metal server.
+• Optimize for low-latency execution, protocol-level efficiency, and secure decentralized architecture.
+• Leverage prompt engineering to accelerate development and boost productivity.
 
 **Software Engineer – Morchid Engineering**  
 *Casablanca, Morocco* | Mar 2023 – Apr 2025
