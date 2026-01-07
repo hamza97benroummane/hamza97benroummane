@@ -5,10 +5,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />
 </h1>
 
-
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Lead+Dev+%26+Architect+on+Solana+dApp;Software+Engineer;PhD+Researcher+in+AI;Blockchain+%26+Web3+Enthusiast" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Co-Founder+%26+Solana+Architect;Rust,+MEV+%26+HFT+Engineer;Full+Spectrum+SaaS+Builder;PhD+Researcher+in+AI" alt="Typing SVG"/></a>
 </p>
 
 <br>
@@ -18,119 +16,74 @@
 <img align="right" src="https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
 <p>
-  👋 Hi, I'm Hamza Ben Roummane, Software Engineer and Lead Developer on a Solana Token Launchpad & Multisender Tool.  
-  Based in Casablanca, I specialize in full-stack development (Java, Spring Boot, Angular, ReactJS) and blockchain dApps (Solana, Web3.js).  
-  I'm pursuing a PhD in AI , focusing on deep reinforcement learning for autonomous navigation.
+  👋 Hi, I'm <strong>Hamza Ben Roummane</strong>, a <strong>Senior Blockchain Architect</strong> and <strong>SaaS Co-Founder</strong>.
+  <br><br>
+  I operate as a "Full Spectrum" engineer bridging the gap between deep research and high-speed product delivery. My focus is on architecting <strong>low-latency Solana infrastructure</strong> (Rust/Anchor), <strong>MEV-resistant protocols</strong>.
+  <br><br>
+  Currently pursuing a PhD in AI (Deep Reinforcement Learning) while building the next generation of DeFi trading tools.
 </p>
 
 ---
 
 ## 💼 Professional Experience
 
-**Lead Developer & Solution Architect – Solana Token Launchpad & Multisender Tool**  
+**Co-Founder & Senior Solana Architect – Stealth Startup** *Remote | Present*
 
-- Design, develop, and deploy smart contracts on Solana (Rust/Anchor) and Ethereum (Solidity).
-- Build fullstack Web3 dApps with React, TypeScript, and TailwindCSS.
-- Architect and maintain scalable infrastructure for dApps that streamline Web3 project deployment.
-- Deploy and manage high-performance Solana RPC nodes; integrate tooling such as gRPC, QUIC, Jito, Raydium, and Metaplex.
-- Develop high-speed trading bot and copy trading on bare-metal server.
-- Optimize for low-latency execution, protocol-level efficiency, and secure decentralized architecture.
-- Leverage prompt engineering to accelerate development and boost productivity.
+- **Core Engineering:** Architecting automated **Volume Generation Bots** and Liquidity Management engines to simulate organic market activity.
+- **Smart Contracts:** Developing MEV-resistant programs using **Rust** and **Anchor**, optimized for sub-second finality.
+- **Database & Deployment:** Expert in **Dynamic Database Design**: architecting scalable schemas and automated deployment pipelines for high-availability applications.
+- **Infrastructure:** Managing custom RPC nodes and geyser plugins to handle high-throughput data streams for HFT operations.
 
-**Software Engineer – Morchid Engineering**  
-*Casablanca, Morocco* | Mar 2023 – Apr 2025
+**PhD Researcher (AI & Autonomous Systems) – USMS** *Morocco | Oct 2022 – Present*
 
-- Designed and implemented RESTful APIs and backend services in Java Spring Boot & Node.js for automation workflows.  
-- Built a real-time Solana token monitoring pipeline using Web3.js & MongoDB.  
-- Optimized SQL Server databases for improved query performance and developed data archiving/reporting solutions.  
-- Collaborated with cross-functional teams on UI/UX, development planning, and detailed project reporting.
+- Researching **Deep Reinforcement Learning (DRL)** algorithms for autonomous navigation (TD3/Soft Actor-Critic).
+- Developing hybrid planning frameworks using **ROS** and **Gazebo**.
+- Applying complex optimization mathematics to financial system architecture.
 
-**VR & AR Application Developer Intern – IDC, UM6P**  
-*Ben Guerir, Morocco* | May 2022 – Dec 2022
+**Software Engineer – Morchid Engineering** *Casablanca, Morocco | Mar 2023 – Apr 2025*
 
-- Developed immersive VR/AR training simulations with Blender & Unity.  
-- Partnered with designers and engineers to deliver industrial and educational applications.
-
-**Software Developer Intern – US2I**  
-*Beni Mellal, Morocco* | Mar 2020 – Jun 2020
-
-- Built a Java/Angular web app with admin dashboard for member and event management.  
-- Designed MySQL schemas and responsive UIs with HTML5, CSS3, and Angular.
+- Designed RESTful APIs and backend services for industrial automation.  
+- Built real-time monitoring pipelines and optimized SQL Server databases for high-volume reporting.
 
 ---
 
-## 🎓 Education
+## 🚀 Key Projects
 
-**PhD in Artificial Intelligence**  
-Faculty of Science & Technology, Beni Mellal, Morocco | Oct 2022 – Present
+**Solana Liquidity & Volume Infrastructure** - A suite of automated trading tools including sniping bots, volume generators, and market-making scripts.
+- **Tech Stack:** Rust, TypeScript, Jito Bundles, Solana Web3.js.
 
-**Master’s in Business Intelligence**  
-Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2020 – Jun 2022
+**High-Throughput Token Launchpad** - A decentralized platform for SPL token creation and presales with anti-bot protection.
+- **Tech Stack:** Anchor (Rust), React, Next.js, Supabase.
 
-**Bachelor’s in Computer Science**  
-Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
-
----
-
-## 🚀 Projects
-
-**Self-Hosted AI API for Blockchain Token Analysis**  
-- AI/ML models for market trend forecasting, hosted on GPU cloud.  
-- Integration with SQL databases and KPI dashboards.
-
-**ROS-Based Autonomous Robot Navigation**  
-- Hybrid planning with deep reinforcement learning for hospital environments.  
-- Published chapter: [Springer](https://link.springer.com/chapter/10.1007/978-3-031-37872-0_12)
-
-**Secure E-Commerce Application**  
-- Full-stack e-commerce with JWT security, role-based access in Angular & Spring Boot.  
-- Source: [GitHub Repo](https://github.com/hamza97benroummane/spring-boot-ecommerce)
+**ROS-Based Autonomous Navigation (PhD Research)** - Hybrid planning with deep reinforcement learning for dynamic environments.  
+- **Tech Stack:** Python, PyTorch, ROS, Gazebo.
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
-
-<p align="center"> 
-  &emsp; 
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  &emsp;
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  &emsp;
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-  &emsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-</p>
-
-### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend & UI/UX
-<p align="center"> 
-  &emsp; 
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
-  &emsp;
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
-  &emsp;
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
-</p>
-
-### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Blockchain & On-Chain
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Blockchain & High Performance
 <p align="center">
+  &emsp;
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white">
   &emsp;
   <img alt="Solana" src="https://img.shields.io/badge/Solana-%234E5DE8.svg?style=plastic&logo=solana&logoColor=white">
   &emsp;
-  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-%2342B883.svg?style=plastic&logo=web3dotjs&logoColor=white">
-  &emsp;
   <img alt="Smart Contracts" src="https://img.shields.io/badge/Smart_Contracts-%23F05033.svg?style=plastic&logo=ethereum&logoColor=white">
+  &emsp;
+  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-%2342B883.svg?style=plastic&logo=web3dotjs&logoColor=white">
 </p>
 
-### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/IDEs.gif?raw=true" width=5%> DevOps & Tools
-<p align="center">
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Full Spectrum & Database
+<p align="center"> 
+  &emsp; 
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white">
   &emsp;
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   &emsp;
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%2302497B.svg?style=plastic&logo=docker&logoColor=white">
+  <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white">
   &emsp;
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-%23500F32.svg?style=plastic&logo=githubactions&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
 </p>
 
 ### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/CP_PS.gif?raw=true" width=5%> AI & Research
@@ -143,14 +96,14 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
   <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-%239B51E0.svg?style=plastic&logo=openai&logoColor=white">
 </p>
 
-### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/OS.gif?raw=true" width=5%> Other Skills
+### <img src = "https://github.com/hamza97benroummane/hamza97benroummane/blob/main/Images/IDEs.gif?raw=true" width=5%> DevOps & Tools
 <p align="center">
   &emsp;
-  <img alt="VR/AR" src="https://img.shields.io/badge/VR%2FAR-%2300D8FF.svg?style=plastic&logo=unity&logoColor=black">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
   &emsp;
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=plastic&logo=Microsoft-SQL-Server&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%2302497B.svg?style=plastic&logo=docker&logoColor=white">
   &emsp;
-  <img alt="Database" src="https://img.shields.io/badge/Database-%2300ADD8.svg?style=plastic&logo=mysql&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
 </p>
 
 ---
@@ -233,7 +186,6 @@ Faculty of Science & Technology, Beni Mellal, Morocco | Sep 2019 – Jun 2020
     />
   </picture>
 </p>
-
 
 ---
 
