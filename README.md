@@ -137,7 +137,7 @@
 <div align="center">
   <p>
     <b>DIRECT COMMUNICATIONS:</b> 
-    <a href="mailto:hamza.benroummane@gmail.com">hamza.benroummane@gmail.com</a> • 
+    <a href="mailto:hamza@hamzabnr.com">hamza@hamzabnr.com</a> • 
     <a href="https://www.linkedin.com/in/hamza-ben-roummane">LinkedIn</a> • 
     <a href="https://hamzabnr.com">Portfolio Website</a>
   </p>
