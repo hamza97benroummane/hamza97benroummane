@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <!-- Grid Pattern -->
+    <pattern id="dot-grid-2" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#16181d" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#050506" />
+  <rect width="100%" height="100%" fill="url(#dot-grid-2)" />
+
+  <!-- Outer Border & Corner Accents -->
+  <rect x="10" y="10" width="780" height="430" fill="none" stroke="#1f2127" stroke-width="1" />
+  <path d="M 10 25 L 10 10 L 25 10" fill="none" stroke="#3df5b0" stroke-width="2" />
+  <path d="M 790 25 L 790 10 L 775 10" fill="none" stroke="#3df5b0" stroke-width="2" />
+  <path d="M 10 425 L 10 440 L 25 440" fill="none" stroke="#3df5b0" stroke-width="2" />
+  <path d="M 790 425 L 790 440 L 775 440" fill="none" stroke="#3df5b0" stroke-width="2" />
+
+  <!-- Header Title -->
+  <text x="30" y="35" font-family="monospace" font-weight="700" font-size="12" fill="#F2F3F5" letter-spacing="2">PEDIGREE &amp; ENGINEERING LEADERSHIP TIMELINE</text>
+  <text x="645" y="35" font-family="monospace" font-size="10" fill="#80848f" letter-spacing="1">DOUBLE-TRACK VIEW</text>
+  <line x1="10" y1="48" x2="790" y2="48" stroke="#1f2127" stroke-width="1" stroke-dasharray="4 4" />
+
+  <!-- Center Axis line with green nodes -->
+  <line x1="400" y1="70" x2="400" y2="420" stroke="#1f2127" stroke-width="2" stroke-dasharray="6 4" />
+
+  <!-- Left Column Header: Academic -->
+  <text x="210" y="80" font-family="monospace" font-weight="700" font-size="11" fill="#80848f" text-anchor="middle" letter-spacing="1.5">🎓 ACADEMIC RIGOR &amp; AI RESEARCH</text>
+
+  <!-- Right Column Header: Engineering -->
+  <text x="590" y="80" font-family="monospace" font-weight="700" font-size="11" fill="#80848f" text-anchor="middle" letter-spacing="1.5">💻 TECHNICAL LEADERSHIP &amp; SYSTEMS</text>
+
+  <!-- Node 1: PhD AI Researcher (Left side, top) -->
+  <rect x="40" y="110" width="320" height="85" fill="#08090a" stroke="#1f2127" stroke-width="1" />
+  <path d="M 40 110 L 55 110 L 40 125 Z" fill="#3df5b0" />
+  <text x="55" y="132" font-family="sans-serif" font-weight="800" font-size="13" fill="#F2F3F5">PhD Researcher in AI &amp; Robotics</text>
+  <text x="55" y="150" font-family="monospace" font-size="10" fill="#80848f">2022 — PRESENT // Sultan Moulay Slimane</text>
+  <text x="55" y="166" font-family="sans-serif" font-size="10" fill="#b6b9c2">Adaptive models (TD3-RRT) for path planning</text>
+  <text x="55" y="180" font-family="monospace" font-size="9" fill="#3df5b0">PyTorch · Python · ROS2 · Deep RL</text>
+  <line x1="360" y1="150" x2="400" y2="150" stroke="#3df5b0" stroke-width="1" />
+  <circle cx="400" cy="150" r="4" fill="#3df5b0" />
+
+  <!-- Node 2: Technical Lead & SaaS Architect (Right side, middle-top) -->
+  <rect x="440" y="160" width="320" height="85" fill="#08090a" stroke="#1f2127" stroke-width="1" />
+  <path d="M 440 160 L 455 160 L 440 175 Z" fill="#3df5b0" />
+  <text x="455" y="182" font-family="sans-serif" font-weight="800" font-size="13" fill="#F2F3F5">Technical Lead &amp; SaaS Architect</text>
+  <text x="455" y="200" font-family="monospace" font-size="10" fill="#80848f">2022 — PRESENT // Remote &amp; Global Setup</text>
+  <text x="455" y="216" font-family="sans-serif" font-size="10" fill="#b6b9c2">Applied AI pipelines &amp; Solana Web3 systems</text>
+  <text x="455" y="230" font-family="monospace" font-size="9" fill="#3df5b0">Next.js · Solana Web3 · Jito · Raydium · Node</text>
+  <line x1="440" y1="200" x2="400" y2="200" stroke="#3df5b0" stroke-width="1" />
+  <circle cx="400" cy="200" r="4" fill="#3df5b0" />
+
+  <!-- Node 3: Master's in Business Intelligence (Left side, middle-bottom) -->
+  <rect x="40" y="240" width="320" height="70" fill="#08090a" stroke="#1f2127" stroke-width="1" />
+  <text x="55" y="262" font-family="sans-serif" font-weight="800" font-size="13" fill="#F2F3F5">Master's in Business Intelligence</text>
+  <text x="55" y="280" font-family="monospace" font-size="10" fill="#80848f">2020 — 2022 // Sultan Moulay Slimane</text>
+  <text x="55" y="296" font-family="sans-serif" font-size="10" fill="#b6b9c2">Predictive modeling &amp; data mining structures</text>
+  <line x1="360" y1="275" x2="400" y2="275" stroke="#1f2127" stroke-width="1" />
+  <circle cx="400" cy="275" r="3" fill="#1f2127" />
+
+  <!-- Node 4: Senior Full-Stack Developer (Right side, bottom) -->
+  <rect x="440" y="290" width="320" height="70" fill="#08090a" stroke="#1f2127" stroke-width="1" />
+  <text x="455" y="312" font-family="sans-serif" font-weight="800" font-size="13" fill="#F2F3F5">Senior Systems Developer</text>
+  <text x="455" y="330" font-family="monospace" font-size="10" fill="#80848f">2019 — 2022 // Remote Platforms &amp; Startups</text>
+  <text x="455" y="346" font-family="sans-serif" font-size="10" fill="#b6b9c2">Node.js microservices, Stripe gateways, databases</text>
+  <line x1="440" y1="325" x2="400" y2="325" stroke="#1f2127" stroke-width="1" />
+  <circle cx="400" cy="325" r="3" fill="#1f2127" />
+
+  <!-- Node 5: CS Bachelor's (Left side, bottom) -->
+  <rect x="40" y="350" width="320" height="55" fill="#08090a" stroke="#1f2127" stroke-width="1" />
+  <text x="55" y="372" font-family="sans-serif" font-weight="800" font-size="12" fill="#F2F3F5">BSc in Computer Science</text>
+  <text x="55" y="388" font-family="monospace" font-size="9" fill="#80848f">2019 — 2020 // Foundations of Algorithms &amp; Systems</text>
+  <line x1="360" y1="380" x2="400" y2="380" stroke="#1f2127" stroke-width="1" />
+  <circle cx="400" cy="380" r="3" fill="#1f2127" />
+
+  <!-- Node 6: Software Engineering Journey (Right side, very bottom) -->
+  <rect x="440" y="375" width="320" height="55" fill="#08090a" stroke="#1f2127" stroke-width="1" />
+  <text x="455" y="397" font-family="sans-serif" font-weight="800" font-size="12" fill="#F2F3F5">Software Engineering Journey</text>
+  <text x="455" y="413" font-family="monospace" font-size="9" fill="#80848f">7+ Years of Performance-Driven Programming</text>
+  <line x1="440" y1="400" x2="400" y2="400" stroke="#1f2127" stroke-width="1" />
+  <circle cx="400" cy="400" r="3" fill="#1f2127" />
+</svg>
