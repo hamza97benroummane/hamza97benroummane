@@ -9,8 +9,8 @@
 </div>
 
 > [!IMPORTANT]
-> **SYS.OPERATOR // DUAL-TRACK ARCHITECTURE**
-> An elite software engineer operating at the intersection of PhD-level Artificial Intelligence research and high-performance Blockchain / SaaS architectures. Shipping secure, scalable platforms end-to-end.
+> **End-to-End SaaS Architect | Technical Lead | AI & Blockchain Engineer • PhD Researcher in Deep RL • 7+ Years Shipping High-Performance SaaS**
+> Operating at the intersection of PhD-level Artificial Intelligence research and high-performance Blockchain / SaaS architectures. Shipping secure, scalable platforms end-to-end.
 
 ---
 
@@ -42,9 +42,9 @@
 > * *Tech Stack: PyTorch, Python, ROS2, Gazebo, Hugging Face, Vector DBs.*
 
 > [!TIP]
-> **SOLANA WEB3 & HIGH-PERFORMANCE**
-> * Smart contracts in Rust/Anchor, JS-native Solana architectures (Web3.js), Jito bundling, Raydium SDK, and high-frequency trading (HFT)/MEV volume automation.
-> * *Tech Stack: Rust, Anchor, Web3.js, Jito, Raydium SDK, Solana CLI.*
+> **SOLANA WEB3 & HIGH-PERFORMANCE SYSTEMS**
+> * Solana architectures (Web3.js/TypeScript), smart contracts (Rust/Anchor), Jito bundling, Raydium SDK, and high-frequency trading (HFT)/MEV volume automation.
+> * *Tech Stack: Web3.js, Jito, Raydium SDK, Solana CLI, Rust, Anchor.*
 
 > [!TIP]
 > **END-TO-END SAAS ENGINEERING PIPELINE**
@@ -53,7 +53,7 @@
 
 ---
 
-### 🚀 Active Ventures (Operating Products)
+### 🚀 Active Ventures & Shipping Scale (6+ Live Products)
 
 <table>
   <tr>
@@ -66,8 +66,13 @@
     <td width="50%" valign="top">
       <h3>🚀 ChainPad</h3>
       <p><b>Solana Launchpad &amp; DeFi Suite</b></p>
-      <p>A no-code SPL token launchpad and DeFi liquidity bot automation suite. Built JS-native in TypeScript on Solana Web3.js, Jito, and Raydium to execute trades at sub-second speeds.</p>
+      <p>A no-code SPL token launchpad, liquidity management, volume bot, and DeFi automation suite (create tokens, manage liquidity, volume bots). Built in TypeScript on Solana Web3.js, Jito, and Raydium to execute trades at sub-second speeds. Monetized exclusively via Web3 Wallets (Phantom, MetaMask, Solflare).</p>
       <p><a href="https://chainpad.io"><b>Access Console &rarr;</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>🚀 + 4 other live products in production </b>
     </td>
   </tr>
 </table>
