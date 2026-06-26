@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Images/console-header.svg" width="800" alt="Hamza Ben Roummane Console" />
+  <img src="./Images/console-header1.svg" width="800" alt="Hamza Ben Roummane Console" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 > [!IMPORTANT]
-> **End-to-End SaaS Architect | Technical Lead | AI & Blockchain Engineer • PhD Researcher in Deep RL • 7+ Years Shipping High-Performance SaaS**
+> **End-to-End SaaS Architect | Technical Lead | AI & Blockchain Engineer • PhD Researcher in Deep RL • 5+ Years Shipping High-Performance SaaS**
 > Operating at the intersection of PhD-level Artificial Intelligence research and high-performance Blockchain / SaaS architectures. Shipping secure, scalable platforms end-to-end.
 
 ---
@@ -17,7 +17,7 @@
 ### 🎓 Pedigree & Engineering Leadership
 
 <p align="center">
-  <img src="./Images/pedigree-timeline.svg" width="800" alt="Pedigree & Engineering Leadership Timeline" />
+  <img src="./Images/pedigree-timeline1.svg" width="800" alt="Pedigree & Engineering Leadership Timeline" />
 </p>
 
 <details>
@@ -28,7 +28,7 @@
 | :--- | :--- |
 | **PhD Candidate in AI & Robotics** (2022 — Present)<br />*Sultan Moulay Slimane University*<br />• Researching Deep Reinforcement Learning (DRL) algorithms for autonomous navigation (TD3, Soft Actor-Critic).<br />• Developing hybrid path planning models.<br />• *Tech: Python, PyTorch, ROS2, Gazebo, Deep RL* | **Technical Lead & AI SaaS Architect** (2022 — Present)<br />*International & Remote Setup*<br />• Architecting custom AI systems (fine-tuning, RAG, custom pipelines) and high-throughput Web3 engines.<br />• Solo delivery of end-to-end SaaS platforms.<br />• *Tech: Next.js, Solana Web3.js, Jito, Raydium, Node.js* |
 | **Master's in Business Intelligence** (2020 — 2022)<br />*Sultan Moulay Slimane University*<br />• Designed predictive models, high-performance data pipelines, and decision support architectures. | **Senior Full-Stack & Systems Developer** (2019 — 2022)<br />*Remote Startups & Platforms*<br />• Designed database schemas, concurrent Node.js microservices, and custom API architectures. |
-| **Bachelor's in Computer Science** (2019 — 2020)<br />*Sultan Moulay Slimane University*<br />• Core software engineering foundations, data structures, and algorithms. | **Software Engineering Journey** (7+ Years)<br />*Systems & Open Source*<br />• Building secure, modular web applications, HFT bots, and core performance architectures. |
+| **Bachelor's in Computer Science** (2019 — 2020)<br />*Sultan Moulay Slimane University*<br />• Core software engineering foundations, data structures, and algorithms. | **Software Engineering Journey** (5+ Years)<br />*Systems & Open Source*<br />• Building secure, modular web applications, HFT bots, and core performance architectures. |
 
 </details>
 
