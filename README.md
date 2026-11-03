@@ -9,12 +9,12 @@
 </div>
 
 > [!IMPORTANT]
-> **End-to-End SaaS Architect | Technical Lead | AI & Blockchain Engineer • PhD Researcher in Deep RL • 5+ Years Shipping High-Performance SaaS**
-> Operating at the intersection of PhD-level Artificial Intelligence research and high-performance Blockchain / SaaS architectures. Shipping secure, scalable platforms end-to-end.
+> **Tech Entrepreneur | Bootstrapped SaaS Founder & Architect | AI, Growth & Full-Stack Engineering • PhD Researcher in Deep RL • 5+ Years Shipping & Scaling Products**
+> Operating at the intersection of PhD-level Artificial Intelligence research, end-to-end SaaS engineering, and data-driven growth marketing. Building, shipping, and scaling profitable software ventures from zero to production.
 
 ---
 
-### 🎓 Pedigree & Engineering Leadership
+### 🎓 Pedigree, Entrepreneurship & Engineering Leadership
 
 <p align="center">
   <img src="./Images/pedigree-timeline1.svg" width="800" alt="Pedigree & Engineering Leadership Timeline" />
@@ -24,11 +24,11 @@
   <summary><b>🔍 SYSTEM INDEX: CLICK TO EXPAND TEXT-BASED TIMELINE & ACADEMICS (SEO ARCHIVE)</b></summary>
   <br />
 
-| 🎓 Academic Rigor & AI Research | 💻 Technical Leadership & Systems |
+| 🎓 Academic Rigor & AI Research | 🚀 Tech Entrepreneurship, SaaS & Growth |
 | :--- | :--- |
-| **PhD Candidate in AI & Robotics** (2022 — Present)<br />*Sultan Moulay Slimane University*<br />• Researching Deep Reinforcement Learning (DRL) algorithms for autonomous navigation (TD3, Soft Actor-Critic).<br />• Developing hybrid path planning models.<br />• *Tech: Python, PyTorch, ROS2, Gazebo, Deep RL* | **Technical Lead & AI SaaS Architect** (2022 — Present)<br />*International & Remote Setup*<br />• Architecting custom AI systems (fine-tuning, RAG, custom pipelines) and high-throughput Web3 engines.<br />• Solo delivery of end-to-end SaaS platforms.<br />• *Tech: Next.js, Solana Web3.js, Jito, Raydium, Node.js* |
-| **Master's in Business Intelligence** (2020 — 2022)<br />*Sultan Moulay Slimane University*<br />• Designed predictive models, high-performance data pipelines, and decision support architectures. | **Senior Full-Stack & Systems Developer** (2019 — 2022)<br />*Remote Startups & Platforms*<br />• Designed database schemas, concurrent Node.js microservices, and custom API architectures. |
-| **Bachelor's in Computer Science** (2019 — 2020)<br />*Sultan Moulay Slimane University*<br />• Core software engineering foundations, data structures, and algorithms. | **Software Engineering Journey** (5+ Years)<br />*Systems & Open Source*<br />• Building secure, modular web applications, HFT bots, and core performance architectures. |
+| **PhD Candidate in AI & Robotics** (2022 — Present)<br />*Sultan Moulay Slimane University*<br />• Researching Deep Reinforcement Learning (DRL) algorithms for autonomous navigation (TD3, Soft Actor-Critic).<br />• Developing hybrid path planning and safety-critical control models.<br />• *Tech: Python, PyTorch, ROS2, Gazebo, Deep RL* | **Tech Entrepreneur & Bootstrapped SaaS Architect** (2022 — Present)<br />*Independent Venture Studio (Remote)*<br />• Building and scaling a portfolio of bootstrapped AI and SaaS products from concept to profitability.<br />• Driving end-to-end product architecture, LLM workflows, Paid Ads acquisition, SEO, and conversion funnels.<br />• *Stack: Next.js, TypeScript, Node.js, Python, PostgreSQL, Stripe, Analytics* |
+| **Master's in Business Intelligence** (2020 — 2022)<br />*Sultan Moulay Slimane University*<br />• Designed predictive models, high-performance data pipelines, analytics dashboards, and decision support architectures. | **Senior Full-Stack & Systems Engineer** (2019 — 2022)<br />*Remote Startups & FinTech Platforms*<br />• Designed scalable database schemas, high-concurrency Node.js microservices, and real-time Web3/FinTech data pipelines. |
+| **Bachelor's in Computer Science** (2019 — 2020)<br />*Sultan Moulay Slimane University*<br />• Core software engineering foundations, distributed systems, data structures, and algorithms. | **Software Engineering & Product Journey** (5+ Years)<br />*SaaS, AI & Automation Systems*<br />• Shipping secure, modular web applications, automated data engines, and scalable cloud architectures. |
 
 </details>
 
@@ -37,42 +37,42 @@
 ### ⚡ Core Subsystems (Capabilities)
 
 > [!TIP]
-> **APPLIED AI & NEURAL SYSTEMS**
-> * Custom model training and LLM fine-tuning, RAG (Retrieval-Augmented Generation) infrastructure, deep reinforcement learning (DRL) models, and adaptive pathfinding algorithms.
-> * *Tech Stack: PyTorch, Python, ROS2, Gazebo, Hugging Face, Vector DBs.*
+> **APPLIED AI & PRODUCTION LLM SYSTEMS**
+> * Custom model training and LLM fine-tuning, RAG (Retrieval-Augmented Generation) architectures, multi-language NLP pipelines, deep reinforcement learning (DRL), and cost-aware inference infrastructure.
+> * *Tech Stack: PyTorch, Python, Hugging Face, Custom LLM Routing, Vector DBs, ROS2, Gazebo.*
 
 > [!TIP]
-> **SOLANA WEB3 & HIGH-PERFORMANCE SYSTEMS**
-> * Solana architectures (Web3.js/TypeScript), smart contracts (Rust/Anchor), Jito bundling, Raydium SDK, and high-frequency trading (HFT)/MEV volume automation.
-> * *Tech Stack: Web3.js, Jito, Raydium SDK, Solana CLI, Rust, Anchor.*
+> **END-TO-END BOOTSTRAPPED SAAS ENGINEERING**
+> * Complete product lifecycle delivery: rapid MVP validation, multi-tenant database architectures, concurrent Node.js/Python backends, Next.js interfaces, international subscription billing, and cloud deployment.
+> * *Tech Stack: Next.js, TypeScript, React, Node.js, PostgreSQL, Supabase, MongoDB, Docker, Stripe.*
 
 > [!TIP]
-> **END-TO-END SAAS ENGINEERING PIPELINE**
-> * Complete product delivery: scalable databases, concurrent Node.js microservices, Next.js frontend interfaces, Stripe billing gateways, and programmatic growth engines.
-> * *Tech Stack: Next.js, React, Node.js, Python, PostgreSQL, MongoDB, Docker, Stripe.*
+> **GROWTH MARKETING, PAID ADS & MONETIZATION ENGINE**
+> * Full-funnel user acquisition and revenue scaling: Paid Advertising (Google Ads, Meta Ads, PPC), technical & programmatic SEO, Conversion Rate Optimization (CRO), A/B testing, onboarding paywalls, and product analytics.
+> * *Growth Stack: Paid Acquisition, Technical SEO, PostHog / Product Analytics, Funnel Optimization, CAC/LTV Modeling.*
 
 ---
 
-### 🚀 Active Ventures & Shipping Scale (6+ Live Products)
+### 🚀 Venture Studio & Shipping Scale (6+ Bootstrapped Products)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Humanixio</h3>
-      <p><b>AI Academic Humanizer (B2C SaaS)</b></p>
-      <p>An AI writing humanization platform built on a custom fine-tuned LLM. Engineered entirely solo, from database schema and model routing to Stripe payments and programmatic growth.</p>
-      <p><a href="https://humanixio.com"><b>Access Console &rarr;</b></a></p>
+      <h3>🧠 AI & NLP SaaS Portfolio</h3>
+      <p><b>Bootstrapped B2C & B2B SaaS Products (Stealth)</b></p>
+      <p>Architected, launched, and scaled multiple self-funded AI software platforms powered by custom fine-tuned LLMs. Engineered entirely end-to-end—from multi-language inference pipelines and subscription billing to paid ad campaigns (PPC/Social Ads), SEO, and automated conversion funnels.</p>
+      <p><b>Focus:</b> <i>LLM Infrastructure • Subscription SaaS • Paid Acquisition & CRO</i></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 ChainPad</h3>
-      <p><b>Solana Launchpad &amp; DeFi Suite</b></p>
-      <p>A no-code SPL token launchpad, liquidity management, volume bot, and DeFi automation suite (create tokens, manage liquidity, volume bots). Built in TypeScript on Solana Web3.js, Jito, and Raydium to execute trades at sub-second speeds. Monetized exclusively via Web3 Wallets (Phantom, MetaMask, Solflare).</p>
-      <p><a href="https://chainpad.io"><b>Access Console &rarr;</b></a></p>
+      <h3>⚡ FinTech, Web3 & Automation Engines</h3>
+      <p><b>High-Throughput Transaction & Data Platforms (Stealth)</b></p>
+      <p>Engineered real-time distributed applications, automated workflow engines, and non-custodial Web3 integrations. Built with TypeScript, Node.js, and Web3.js to process live on-chain data streams, wallet authentication flows, and sub-second automated transactions at scale.</p>
+      <p><b>Focus:</b> <i>Real-Time Data Pipelines • Web3.js • High-Concurrency Backend</i></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <b>🚀 + 4 other live products in production </b>
+      <b>📈 6+ live bootstrapped products shipped to production — combining deep technical architecture with profitable user acquisition.</b>
     </td>
   </tr>
 </table>
